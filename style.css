@@ -372,14 +372,12 @@ left:870px;
     background-color: red;
 }
 
-#carouselExampleAutoplaying{
+.bottom-car{
     position:relative;
     top:500px;
+    z-index: -2;
 }
 
-.bottom1{
-    margin-left:15% ;
-    margin-right:15% ;
-    height:100px;
-    background-color: red;
+.btmtxt{
+    text-align: center;
 }
