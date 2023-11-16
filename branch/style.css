@@ -1,0 +1,43 @@
+.dmenu{
+    margin-left: 10%;
+    margin-right: 10%;
+    width:80%;
+    height:500px;
+    border: 5px solid black;
+}
+.table-row th{
+    
+    padding-left:40px;
+    padding-right:40px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.table-row td{
+
+    padding-left:40px;
+    padding-right:40px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.table-row1 th{
+    
+    padding-left:25px;
+    padding-right:25px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.table-row1 td{
+
+    padding-left:25px;
+    padding-right:25px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
