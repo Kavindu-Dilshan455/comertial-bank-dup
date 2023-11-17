@@ -340,23 +340,23 @@ left:870px;
     
 }
 
-.item3{
+.item3-11{
     margin-top: 10px;
     margin-left: 60px;
     
 }
 
-.item3 .card-title{
+.item3-11 .card-title{
     position: absolute;
     bottom: 40px;
     background-color: white;
 
 }
-.item3 .card-text{
+.item3-11 .card-text{
     position: absolute;
     bottom:1px;
 }
-.item3:hover{
+.item3-11:hover{
     cursor: pointer;
     
 }
@@ -380,4 +380,208 @@ left:870px;
 
 .btmtxt{
     text-align: center;
+}
+
+.btmdiv{
+    width:60%;
+    margin-left: 20%;
+    margin-right: 20;
+    height:900px;
+    background-color: white;
+    position:relative;
+    text-align: center;
+    background-image:url(/assests/smrt\ phn2.jpeg) ;
+    background-repeat: no-repeat;
+    background-position: 0px 150px;
+    background-size: 400px 600px;
+}
+
+.btmdiv .card{
+    position: absolute;
+    left:600px;
+    top:150px;
+}
+.col img{
+    width:150%;
+}
+.btndiv-btn{
+    position: absolute;
+    top:800px;
+    width: 170px;
+    height:50px;
+    border-radius: 60px;
+    border-color: white;
+    background-color: rgb(232, 232, 83);
+    left:370px;
+}
+.btndiv-btn:hover{
+    background-color: blanchedalmond;
+}
+
+.btm-container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.btm-flex{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.item3{
+    width:300px;
+    height:100px;
+    justify-content:flex-start;
+    background-color: white;
+    position: relative;
+    margin:20px;
+   
+}
+
+.item3-1{
+    background-image: url(/assests/comlogo.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.item3-2{
+    background-image: url(/assests/combnk-dig.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.item3-3{
+    background-image: url(/assests/com-flash.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.item3-4{
+    background-image: url(/assests/q+.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.item3-5{
+    background-image: url(/assests/eslip.jpeg);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.item3-6{
+    background-image: url(/assests/remitpluss.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.item3-7{
+    background-image: url(/assests/e\ passbook.jpeg);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+
+.item3 h5{
+    justify-content: center;
+    position: absolute;
+    left:120px;
+    top:35px;
+}
+.utube-play{
+    margin-top: 10px;
+}
+.utube-play iframe{
+    width:100%;
+    height:500px;
+}
+
+
+body {
+    overflow-x:hidden;
+}
+.after-vdo{
+    margin: 50px;
+    /* justify-content: center; */
+    height: 800px;
+}
+
+.after-vdo .p-3{
+    background-color: gainsboro;
+    height: 600px;
+    border-radius: 10px;
+}
+
+.p-3 .card-body{
+    width:500px;
+    height: 200px;
+}
+
+.after-vdo img{
+    padding-top: 20px;
+    width:96%;
+    height:350px;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.innews-but{
+    width:500px;
+    height:50px;
+    justify-content: center;
+    border-color: white;
+    margin:20px;
+}
+.before-footer{
+    justify-content: center;
+    /* text-align: center; */
+    z-index: 100;
+}
+.before-footer h1{
+    text-align: center;
+}
+.before-footer p{
+    text-align: center;
+}
+
+.before-footer-container{
+ 
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.before-footer-container:hover{
+    cursor: pointer;
+}
+.before-footer-container h5{
+    color: blue;
+    text-align: right;
+    
+}
+.before-footer-container h4{
+    text-align: right;
+}
+.before-footer-item1{
+    width:300px;
+    height:100px;
+    background-color: white;
+    margin:20px;
+    background-image: url(/assests/msg\ logo.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.before-footer-item2{
+    width:300px;
+    height:100px;
+    background-color:white;
+    margin:20px;
+    background-image: url(/assests/locate-logo.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+.before-footer-item3{
+    width:300px;
+    height:100px;
+    background-color:white;
+    margin:20px;
+    background-image: url(/assests/clock);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
 }
