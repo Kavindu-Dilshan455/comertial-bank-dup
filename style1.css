@@ -391,7 +391,7 @@ left:870px;
     background-color: white;
     position:relative;
     text-align: center;
-    background-image:url(/assests/smrt\ phn2.jpeg) ;
+    background-image:url(assests/smrt\ phn2.jpeg) ;
     background-repeat: no-repeat;
     background-position: 0px 150px;
     background-size: 400px 600px;
@@ -442,38 +442,38 @@ left:870px;
 }
 
 .item3-1{
-    background-image: url(/assests/comlogo.png);
+    background-image: url(assests/comlogo.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
     border-radius: 20px;
 }
 .item3-2{
-    background-image: url(/assests/combnk-dig.png);
+    background-image: url(assests/combnk-dig.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
 .item3-3{
-    background-image: url(/assests/com-flash.png);
+    background-image: url(assests/com-flash.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
 .item3-4{
-    background-image: url(/assests/q+.png);
+    background-image: url(assests/q+.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
 .item3-5{
-    background-image: url(/assests/eslip.jpeg);
+    background-image: url(assests/eslip.jpeg);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
 .item3-6{
-    background-image: url(/assests/remitpluss.png);
+    background-image: url(assests/remitpluss.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
 .item3-7{
-    background-image: url(/assests/e\ passbook.jpeg);
+    background-image: url(assests/e\ passbook.jpeg);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
@@ -564,7 +564,7 @@ body {
     height:100px;
     background-color: white;
     margin:20px;
-    background-image: url(/assests/msg\ logo.png);
+    background-image: url(assests/msg\ logo.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
@@ -573,7 +573,7 @@ body {
     height:100px;
     background-color:white;
     margin:20px;
-    background-image: url(/assests/locate-logo.png);
+    background-image: url(assests/locate-logo.png);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
@@ -582,7 +582,7 @@ body {
     height:100px;
     background-color:white;
     margin:20px;
-    background-image: url(/assests/clock);
+    background-image: url(assests/clock);
     background-size: 100px 100px;
     background-repeat: no-repeat;
 }
